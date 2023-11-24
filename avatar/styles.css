@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  height: 100vh;
+}
+
+.container {
+  position: relative;
+  padding: 20px;
+  background: linear-gradient(to left, transparent, rgba(0, 255, 255, 0.5));
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: flex-end;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.question {
+  width: 200px;
+  margin-top: 20px;
+}
+
+.question input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn-ok {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}

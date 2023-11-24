@@ -1,0 +1,9 @@
+>= 9900 - NONOELEMENTO
+>= 9499 - Administrador DBA Cliente
+>= 8999 - Administrador Loja
+>= 8499 - Gerente da Loja
+>= 7999 - Financeiro
+>= 7499 - Vendedores
+>= 6999 - Estoque
+>= 5999 - Outros básico
+>= 1000 - Clientes
